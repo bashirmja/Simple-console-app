@@ -1,0 +1,13 @@
+C:\Users\bashir momen\Desktop\Simple console app\bin\Debug\netcoreapp3.1\Simple console app.exe
+C:\Users\bashir momen\Desktop\Simple console app\bin\Debug\netcoreapp3.1\Simple console app.deps.json
+C:\Users\bashir momen\Desktop\Simple console app\bin\Debug\netcoreapp3.1\Simple console app.runtimeconfig.json
+C:\Users\bashir momen\Desktop\Simple console app\bin\Debug\netcoreapp3.1\Simple console app.runtimeconfig.dev.json
+C:\Users\bashir momen\Desktop\Simple console app\bin\Debug\netcoreapp3.1\Simple console app.dll
+C:\Users\bashir momen\Desktop\Simple console app\bin\Debug\netcoreapp3.1\Simple console app.pdb
+C:\Users\bashir momen\Desktop\Simple console app\obj\Debug\netcoreapp3.1\Simple console app.csprojAssemblyReference.cache
+C:\Users\bashir momen\Desktop\Simple console app\obj\Debug\netcoreapp3.1\Simple console app.AssemblyInfoInputs.cache
+C:\Users\bashir momen\Desktop\Simple console app\obj\Debug\netcoreapp3.1\Simple console app.AssemblyInfo.cs
+C:\Users\bashir momen\Desktop\Simple console app\obj\Debug\netcoreapp3.1\Simple console app.csproj.CoreCompileInputs.cache
+C:\Users\bashir momen\Desktop\Simple console app\obj\Debug\netcoreapp3.1\Simple console app.dll
+C:\Users\bashir momen\Desktop\Simple console app\obj\Debug\netcoreapp3.1\Simple console app.pdb
+C:\Users\bashir momen\Desktop\Simple console app\obj\Debug\netcoreapp3.1\Simple console app.genruntimeconfig.cache
