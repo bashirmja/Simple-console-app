@@ -1,5 +1,6 @@
 ﻿using System;
-					
+using System.Collections.Generic;
+
 public class Program
 {
 	public static void Main()
@@ -7,7 +8,12 @@ public class Program
 		Console.WriteLine("Hello World");
 		AAA a= ReturnNull();
 		Test(a);
-		Console.Write(a.B);
+		//Console.Write(a.B);
+
+		var myList= new List<long>();
+
+		Console.WriteLine(myList.Count);
+
 	}
 
     private static AAA ReturnNull()
@@ -21,6 +27,11 @@ public class Program
 		{
 			a= new AAA();
 		}
+	}
+
+	public static void TestList(List<long> longList)
+	{
+		longList.Add(25);
 	}
 }
 
